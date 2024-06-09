@@ -1,7 +1,7 @@
 # MERN Authentication Starter
 
 This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool.
-<img src="./frontend/public/screen.png" />
+![Untitled design](https://github.com/subhpaul123/MERN-AUTH/assets/131908041/f905fbd3-32a6-4276-b35b-d5dd91a8888c)
 
 It includes the following:
 
@@ -18,7 +18,6 @@ It includes the following:
 ## Usage
 
 - Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
 
 ### Env Variables
 
